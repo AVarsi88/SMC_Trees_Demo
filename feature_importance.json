@@ -1,0 +1,10 @@
+{
+  "Glucose": 0.23809523809523808,
+  "BloodPressure": 0.0,
+  "SkinThickness": 0.19047619047619047,
+  "Insulin": 0.09523809523809523,
+  "BMI": 0.0,
+  "DiabetesPedigreeFunction": 0.047619047619047616,
+  "Age": 0.42857142857142855,
+  "Outcome": 0.0
+}
