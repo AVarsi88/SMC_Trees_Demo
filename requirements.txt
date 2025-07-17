@@ -1,4 +1,4 @@
-streamlit==1.44.0
+streamlit
 sympy
 numpy
 scipy
@@ -10,5 +10,5 @@ coverage
 graphviz 
 matplotlib
 plotly
-streamlit-plotly-events==0.0.6
+streamlit-plotly-events
 statsmodels
