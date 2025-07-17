@@ -1,4 +1,5 @@
 import numpy as np
+
 def importance_resampling_v3(x, w, mvrs_rng , N=None):
 
     if N is None:

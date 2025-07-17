@@ -1,5 +1,6 @@
 import numpy as np
 from discretesampling.base.algorithms.smc_components.importance_resampling_version3 import systematic_resampling
+
 def min_error_importance_resampling(x, w, mvrs_rng , N=None):
 
     if N is None:

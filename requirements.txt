@@ -1,14 +1,15 @@
+altair
+pandas
 streamlit
 sympy
 numpy
 scipy
 scikit-learn
-pandas
 tqdm
 flake8
 coverage
 graphviz 
 matplotlib
 plotly
-streamlit-plotly-events
+streamlit-plotly-events==0.0.6
 statsmodels
