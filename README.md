@@ -11,14 +11,12 @@ Copyright (c) 2023, University of Liverpool.
 
 
 ## How to use 
-You can either run it on your browser by clicking on one of the following links: 
+You can either run it on your browser by clicking on the following link: 
 
 https://huggingface.co/spaces/AVarsi88/DV_Space 
 
-https://smctrees.streamlit.app/
-
-You can either run it locally by cloning this repo, cd into the main folder, and run from shell the following line:
+or you can run it locally by cloning this repo, cd into the main folder, and run from shell the following line:
 
 ```bash
-streamlit run smc_trees_app.py
+streamlit run streamlit_app.py
 ```
