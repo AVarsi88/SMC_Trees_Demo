@@ -12,6 +12,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 # Import the training function from decision_tree_driver.py
 from examples.decision_tree_driver import train_smc_model, save_tree_to_json
+import ssl
+
+# 1️⃣ PATCH FIRST
+ssl._create_default_https_context = ssl._create_unverified_context
 
 st.title("🌳 Sequential Monte Carlo Trees Dashboard")
 
